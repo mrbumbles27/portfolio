@@ -1,2 +1,2 @@
 # portfolio
-collection of code samples for ben mygatt
+collection of code samples by ben mygatt
